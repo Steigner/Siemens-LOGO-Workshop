@@ -18,6 +18,8 @@ The Software platform for virtualization for the solution is **Docker Compose**.
 
 ## Case
 
+An integral part of this small project is the creation of two flows, an **offline-greenhouse to simulate process** and an **online-greenhouse to connect to real hardware**.
+
 Individual sensors and control parts (temp. sensors, motors, etc.) are connected to the Logo! This control unit then communicates with Node-Red using Snap7 communication where the control logic is designed in Node-Red software and via dashboard package is generated very simple web-based visualization.
 
 
