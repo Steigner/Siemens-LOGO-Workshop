@@ -1,4 +1,4 @@
-## Siemens-LOGO-Workshop
+## Siemens LOGO! Workshop - Node Red
 
 This workshop demonstrates the connection of Siemens LOGO! PLC and Node - Red web based framework. As a demonstration task, this simple demonstration refers to the control of an industrial greenhouse. Based on the available hardware, basic bool logic has been solved, for basic control and demonstration of the power of Node - Red.
 
