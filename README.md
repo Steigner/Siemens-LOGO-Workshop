@@ -14,9 +14,11 @@ This workshop demonstrates the connection of Siemens LOGO! PLC and Node - Red we
 
 ```
 
+The Software platform for virtualization for the solution is **Docker Compose**.
+
 ## Case
 
-Individual sensors and control parts (temp. sensors, motors, etc.) are connected to the Logo! This control unit then communicates with Node-Red using Snap7 communication where the control logic is designed with one-touch web-based visualization.
+Individual sensors and control parts (temp. sensors, motors, etc.) are connected to the Logo! This control unit then communicates with Node-Red using Snap7 communication where the control logic is designed in Node-Red software and via dashboard package is generated very simple web-based visualization.
 
 
 ## Hardware
@@ -24,7 +26,7 @@ Individual sensors and control parts (temp. sensors, motors, etc.) are connected
 
 ## Software
 
-
+![ex1](/docs/s1.png)
 
 :red_circle: Brno University of Technology,
 

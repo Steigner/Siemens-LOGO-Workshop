@@ -112,7 +112,7 @@
         "type": "function",
         "z": "87d49d4ca8a2cd73",
         "g": "a8fae8f04608e16f",
-        "name": "Rozhodnutí",
+        "name": "Decision",
         "func": "var t1 = global.get(\"temp-high\");\nvar t2 = global.get(\"temp-low\");\n\nif (t1 == true && t2 == false){\n    msg.payload = false;\n    return msg;\n}else if(t1 == true && t2 == true){\n    //pass\n}\nelse if(t1 == false && t2 == true){\n    msg.payload = true;\n    return msg;\n}\nelse{\n    // pass\n}",
         "outputs": 1,
         "timeout": 0,
