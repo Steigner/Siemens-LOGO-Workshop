@@ -1,0 +1,14 @@
+version: '3'
+services:
+  node-red:
+    build: ./node-red
+    container_name: node-red-greenhouse
+    restart: always
+    environment:
+      - TZ=Europe/Prague
+    ports:
+      - 1880:1880
+
+    # ! Important ! If you want have persistent changes
+    # volumes:
+    #   - ./data/node-red-data:/data
