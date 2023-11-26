@@ -45,4 +45,4 @@ Individual sensors and control parts (temp. sensors, motors, etc.) are connected
 
 :computer: Institute of Automation and Computer Science
 
-![ex2](/docs/qrcode.png)
+<img src="./docs/qrcode.png" alt="drawing" width="200"/>
