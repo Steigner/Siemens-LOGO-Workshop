@@ -44,3 +44,5 @@ Individual sensors and control parts (temp. sensors, motors, etc.) are connected
 :large_blue_circle: Faculty of Mechanical Engineering,
 
 :computer: Institute of Automation and Computer Science
+
+![ex2](/docs/qrcode.png)
