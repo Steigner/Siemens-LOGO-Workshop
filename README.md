@@ -34,6 +34,7 @@ Individual sensors and control parts (temp. sensors, motors, etc.) are connected
 
 ## Hardware
 
+![ex2](/docs/s2.jpg)
 
 ## Software
 
